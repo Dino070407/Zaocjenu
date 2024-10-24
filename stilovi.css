@@ -1,0 +1,91 @@
+body{
+    background-color: lightgray;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+.topnav {
+    background-color: #333;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+    text-align: center;
+}
+.vijesti{
+    font-size: 50px;
+}
+.vijest1{
+    text-align: center;
+    height: auto;
+    border-radius: 15px;
+    width: 100%;
+}
+.vijest2{
+    text-align: center;
+    height: auto;
+    border-radius: 5px;
+}
+.vijest3{
+    text-align: center;
+    height: auto;
+}
+.vijest1:hover{
+    background-color: darkgrey;
+}
+.vijest2:hover{
+    background-color: darkgrey;
+}
+.vijest3:hover{
+    background-color: darkgrey;
+}
+.ulaznice{
+    font-size: 50px;
+    
+}
+.tekstulaznice{
+    font-size: 20px;
+}
+.tj{
+    font-size: 20px;
+    text-decoration: solid;
+}
+.dolje{
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+}
+.partneri{
+    background-color: darkgrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 8px;
+    font-size: 25px;
+}
+.kontakt{
+    background-color: darkgrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 8px;
+}
+.povijest{
+    background-color: darkgrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.center{
+    text-align: center;
+}
