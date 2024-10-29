@@ -1,5 +1,5 @@
 body{
-    background-color: lightgray;
+    background-color: whitesmoke;
     text-align: center;
     font-family: Arial, sans-serif;
 }
@@ -40,11 +40,13 @@ body{
     height: auto;
     border-radius: 15px;
     width: 100%;
+    font-size: 20px;
 }
 .vijest2{
     text-align: center;
     height: auto;
     border-radius: 5px;
+    font-size: 20px;
 }
 .vijest2 a{
     text-decoration: none;
@@ -53,6 +55,7 @@ body{
 .vijest3{
     text-align: center;
     height: auto;
+    font-size: 20px;
 }
 .vijest3 a{
     text-decoration: none;
